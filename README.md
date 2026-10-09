@@ -25,8 +25,8 @@ This project was created for my BAIS:3050 course to practice using GitHub. I lea
   
 ## *Files Used*
 - README.md- provide my overview and description of my background.
-- Lab5.ow- this shows my skills with ORANGE Data Mining
-- Sanjsheth_eow6- this shows my skills with Python XML AND HTML.
+- 'Lab5.ow'- this shows my skills with ORANGE Data Mining
+- 'Sanjsheth_eow6'- this shows my skills with Python XML AND HTML.
   
 ## How to run program
 -Open Hello World page
